@@ -409,9 +409,9 @@
                 <img class="as-background" src="<?echo includes_dir;?>common-files/dist/css/images/blank.gif" data-src="<?echo includes_dir;?>common-files/images/home/bargad2.png" data-retina="http://bqworks.com/accordion-slider/images/image2@2x.jpg"/>
               </a>
 
-              <div class="as-layer as-closed as-white panel-counter"
-                 data-position="bottomLeft" data-horizontal="8" data-vertical="8">
-                 Panel 2
+              <div class="as-layer as-closed  "
+                 data-horizontal="center" data-vertical="30%">
+                 <h3 class="center">Peace and Youth <br>Co operation</h3>
               </div>
 
               <div class="as-layer" 
