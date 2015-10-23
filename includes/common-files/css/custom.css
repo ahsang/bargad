@@ -1,0 +1,21 @@
+/*------------------------------------------------------------------------------------*/
+/*------------------------------  YOUR CUSTOM CSS STYLE  -----------------------------*/
+
+.bg-dark{background-color: rgba(174,157,125,1);}
+p{
+	color:white;
+}
+/*
+.navbar-brand{
+	width:100px;
+}*/
+
+.topnav.topnav-top .site-name {width: 120px;}
+
+.topnav .navbar-brand {background: url(../images/logo.png) no-repeat center;}
+
+[class*="bg-"]:not(.bg-gray-light):not(.bg-white) h1,[class*="bg-"]:not(.bg-gray-light):not(.bg-white) h2,[class*="bg-"]:not(.bg-gray-light):not(.bg-white) h3,[class*="bg-"]:not(.bg-gray-light):not(.bg-white) h4,[class*="bg-"]:not(.bg-gray-light):not(.bg-white) h5,[class*="bg-"]:not(.bg-gray-light):not(.bg-white) h6{color:white;}
+
+.topnav ul.nav > li > a{color:rgba(255,255,255,1);text-transform: uppercase;font-size: 14px;letter-spacing: 2px;padding:0 20px;}
+.topnav.topnav-top .site-name {height: 100px;width:500px;}
+.topnav .site-name {height: 100px;width: 500px;}
