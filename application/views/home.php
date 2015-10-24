@@ -30,12 +30,12 @@
           visiblePanels: 4,
           closePanelsOnMouseOut: true,
           autoplay: false,
-          breakpoints: {
-              960: {visiblePanels: 4},
-              800: {visiblePanels: 4, orientation: 'vertical', aspectRatio: 0.1},
-              650: {visiblePanels: 4},
-              500: {visiblePanels: 4, orientation: 'vertical', aspectRatio: 0.1}
-          }
+          // breakpoints: {
+          //     960: {visiblePanels: 4},
+          //     800: {visiblePanels: 4, orientation: 'vertical', aspectRatio: 0.1},
+          //     650: {visiblePanels: 4},
+          //     500: {visiblePanels: 4, orientation: 'vertical', aspectRatio: 0.1}
+          // }
         });
         var accordion = $('#example1').data('accordionSlider');
         $("#slider").height(accordion.$panelsContainer[0].clientHeight);
@@ -517,7 +517,7 @@
 
     <script>
         jQuery(document).ready(function($) {
-            $('.parallax').css("background-position", "50% 700px")
+            $('.parallax').css("background-position", "50% 700px");
             // Loop through elements children to find & set the biggest height
             
 
