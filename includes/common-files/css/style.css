@@ -66,7 +66,6 @@ p {color: #848484;}
 aside li {list-style: none;}
 img{height:auto}
 ul,ol{padding-left:0}
-.bg-dark{background-color: #AE9D7D}
 .topnav li {list-style: none}
 ul.list-unstyled, .list-unstyled li {list-style: none; margin: 0; padding: 0;}
 .fa-li {top: 6px;}
@@ -262,7 +261,7 @@ li.current a,ul.nav > li > a:hover{color:#319db5}
 
 /* Navigation Top Search & Adress */
 .topnav .section.header-info {padding-top: 10px;padding-bottom: 10px;}
-.topnav .section.header-info.bg-dark {background: #AE9D7D}
+.topnav .section.header-info.bg-dark {background: #262626}
 .topnav .section.header-info.bg-white {background: #fff}
 .topnav .section.header-info.bg-primary {background: #319db5}
 .topnav .section.header-info.bg-gray-light   {background: #EBEBEB}
@@ -1254,7 +1253,7 @@ body:hover .error-hover::after{-webkit-transition-delay:.2s;transition-delay:.2s
 .page-helper table.helper-text tbody > tr > td > div{background-color:#F2F2F2;border:1px solid #ededed;height:auto;line-height:normal;max-width:300px;min-height:40px;padding:10px;width:auto}
 .page-helper table.helper-text tbody > tr > td > div p{margin-bottom:0;text-align:center}
 .page-helper table.helper-text-color tbody > tr > td > div{background-color:#fff;border:1px solid #ededed;height:auto;line-height:normal;max-width:300px;min-height:40px;padding:10px;width:auto}
-.page-helper table.helper-text-color tbody > tr > td > div.bg-dark {background:#ae9d7d ;}
+.page-helper table.helper-text-color tbody > tr > td > div.bg-dark {background:#28292A ;}
 .page-helper table.helper-text-color tbody > tr > td > div p{margin-bottom:0;text-align:center}
 .page-helper table.helper-background tbody > tr > td > div{border:1px solid #ededed}
 .page-helper table.helper-border-radius tbody > tr > td > div{border:1px solid #ededed}
@@ -1322,7 +1321,7 @@ body:hover .error-hover::after{-webkit-transition-delay:.2s;transition-delay:.2s
   .navbar-nav>li { float: none; border-bottom: 1px solid rgba(255,255,255,0.07);}
   .navbar-nav>li:last-child {  border-bottom: none !important;}
   .navbar-right {  float: none!important; background: #121212;  margin-top: 0;}
-  .bg-dark .navbar-right { background: #ae9d7d;}
+  .bg-dark .navbar-right { background: #28292A;}
   .bg-white .navbar-right { background: #fff;}
   .bg-white .navbar-nav>li { float: none; border-bottom: 1px solid rgba(0,0,0,0.07);}
   .bg-white .navbar-nav .dropdown-menu, .scroll-white .navbar-nav .dropdown-menu { border-left: none; border-right:none; border-bottom: none;}
